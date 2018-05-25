@@ -1,0 +1,12 @@
+wins: Int
+Away wins: Int
+losess: Int
+Away loses: Int
+draws: Int
+goals: Int
+opponent goals: Int
+shots: Int
+opponent shots: Int
+shots on target: Int
+goal rates: Float (in 5 previous match)
+opponent goal rates: Float (in 5 previous match)
